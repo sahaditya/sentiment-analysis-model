@@ -1,0 +1,41 @@
+Sl.No,Product Name,User Name,Review
+1,camera Screen 4, Raj Kumar,Delivery Within 2 Days (Awsm)
+2,camera Screen 4 ,Raj Kumar,Superbbb Device
+3,camera Screen 4 Raj Kumar, Awsm Battery
+goodcamera Screen good Raj Kumar,Device Take 2:30Hours To Full Chargeÿ
+5,camera Screen 4 Raj Kumar, No Heating Issue
+6,camera Screen good Raj Kumar,Jio Working Flawlesslyÿ
+7,camera Screen goodRaj Kumar,SOUND IS MORE CLEAR AND LOUD THAN REDMI 3S PRIME
+8,camera Screen 4 Raj Kumar, Using 64 Gb
+9,camera Screen 4 Raj Kumar,"Awsm Camera (Many Modes Available, Slow Motion Video Recorder)"
+10,camera Screen 4 Raj Kumar, Double Tap To Wakeÿ
+11,Screen goodRaj Kumar,Getting Update Around 1.4Gb (Not Update Yet)
+12,Screen goodMAHESH VELIP,Firstly I thanks to flipkart they are doing good jobÿ
+13,camera Screen 4 MAHESH VELIP,I got cameramobile after 4 days and frankly tel you this is a very very nice phoneÿ
+1goodcamera Screen 4 MAHESH VELIP,Smooth touchÿ
+15,camera Screen 4 MAHESH VELIP,Battery backup is very goodÿ
+16,camera Screen 4 MAHESH VELIP,No heating issuesÿ
+17,camera Screen 4 MAHESH VELIP,thumbs up to cameraScreen 4
+18,camera Sound 4 vijay bhosale,Overall performance is good but i am facing issue with mic. and charging takes ages.
+19,camera Sound 4 vijay bhosale,my voice is not audible to other side and requested for the replacement but didn't got any call yet
+20,camera Sound 4 Prajwal Yadav,Camera quality s low
+21,camera Sound 4 Prajwal Yadav,Dead pixel problem
+22,camera Sound 4 Dhandapani S,Phone is good.Battery backup very good.
+23,camera Sound 4 arvind battery,Awesome phone at just 11k.
+2goodcamera Sound 4 not battery,I am using it for last 10 days and it comes out to be beast.
+25,camera Sound 4 not battery,Pros: Huge battery backup.
+26,camera Sound 4 not battery,"One of the major concern was battery for me, because i don't like to worry about the phone going down while using it and this phone serves that purpose."
+27,camera Sound good not battery,"I have been using it for last 24 hour and using the intrrnet for most of the time, wifi, mobile data, and hotspot onn for most of the time, played games for half an hour and still 27% of battery charge remaining."
+28,camera Sound good not battery,"Camera is really good, it gives better true color and brightness in its images than Sound 3 beacuse of its improved sensors and larger pixel size."
+29,camera Sound good not battery,"Speaker at bottom is perfect place to place it, now we dont need to worry about putting our phone front facing or back facing, this speaker will prpduce sound."
+30,camera Sound good not battery,Notifications light of multiple color are really great in identifying the type of notifications. We can customise it.
+31,camera Sound good not battery,"No heating problem, even after charging for 1.5 hour it only heats upto 32 celcius which is normal."
+32,camera Sound good not battery,Charging time is around 1.5 hour . From 20% to 100% .it takes only 1.5 hour to charge.
+33,camera Sound good not charging,Cons: no cons at this proce segment.
+3goodcamera Sound good frusted charging,Screen Touch is amazing
+35,camera Sound good frusted charging,Picture quality is just perfect
+36,camera Sound good frusted charging,Battery is very good
+37,camera Sound good frusted charging,Phone weight is fine
+38,camera Sound goodfrusted charging,Camera quality is not as expectedÿ
+39,camera Sound good frusted charging,Overall good deal in this price
+40,camera Sound good good Goyal,Nothing to say about this product.ÿ

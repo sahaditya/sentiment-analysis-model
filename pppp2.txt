@@ -1,0 +1,11 @@
+"sentimentP2" "count"
+"1" "anger" 78
+"2" "anticipation" 126
+"3" "disgust" 12
+"4" "fear" 19
+"5" "joy" 103
+"6" "sadness" 18
+"7" "surprise" 90
+"8" "trust" 109
+"9" "negative" 91
+"10" "positive" 135

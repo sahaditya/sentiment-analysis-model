@@ -1,0 +1,153 @@
+Sl.No,Product Name,User Name,Review
+1,touch look camera, good  Sewag,I Bought this phone yesterday..ÿ
+2,touch look camera, good  Sewag,Positive Points
+3,touch look camera, good  Sewag,Camera Quality is Good
+4,touch look camera, good  Sewag,HD Display
+5,touch look camera, good  Sewag,Slim & Good Design
+6,touch look camera, good  Sewag,4G Supports
+7,touch look camera, good  Sewag,Latest Android Version
+8,touch look camera, good  Sewag,
+9,touch look camera, good  Sewag,Negative Points
+10,touch look camera, good  Sewag,Less Internal Storage
+11,touch look camera , good  S,More than Worth to buy .
+12,touch look camera , good  S,Simply super With 1.5GB RAM
+13,touch look camera , good  S,Processor is Excellent
+14,touch look camera , good  S,RAM is No hanging up & No heating
+15,touch look camera , good  S,Replaceble battery
+16,touch look camera , good  S,Wonderful clicks with Excellent back and front camera
+17,touch look camera , good  S,4G is Awesome
+18,touch look camera , good  S,Awesome touchscreen
+19,touch look On6, good  S,Battery is backup also greatÿ
+20,touch look camera , good  S,Excellent UI
+21,touch look camera , good  S,Additional features
+22,touch look camera , good  S, Power saving ..
+23,touch look camera , good  S,Data restrict.ÿ
+24,touch look camera , good  S,Both are excellent and useful to batter backup
+25,touch look camera , good  S,"Final verdict, I will recommend this phone to my buddies"
+26,touch look camera , best  Ray,"I have bought it in ?6,291.00"
+27,Screen look camera , best  Ray,Very good product in this price.
+28,Screen look camera , best  Ray,I have updated it to Marshmallow.
+29,Screen look camera , best  Ray,
+30,Screen look camera , best  Ray,Only drawback is there is no Notification LED in the set.
+31,Screen look camera , best  Kumar,Excellent phone . Using it since 3 days .... battery backup is nice .... amazing camera quality ... Processing is fast ... 4G is awesome ....
+32,Screen look camera , best  Kumar,
+33,Screen look camera , best  Kumar,Worth for money ... Go fot it ....
+34,Screen look camera ,battery Gupta,Long Batery backupÿ
+35,Screen look camera ,battery Gupta,Front camera is good
+36,Screen look camera ,battery Gupta,Light weight handset
+37,Screen look camera ,battery Gupta,Excellent erfprmance
+38,Screen look camera ,battery Customer,No Quality cameras front and rare (5&8MP)..
+39,Screen look camera ,battery Customer,Its to bad...
+40,Screen look camera ,battery Customer,Its look like 5 & 3 MP camera...
+41,Screen look camera ,battery Customer,
+42,Screen look camera ,battery Customer,"But, Offline Sumsang camera  Mobile camera quality is good.please check before purchase mobile in online"
+43,Screen look camera ,Sharad Verma,volume key not working properlly
+44,Screen look camera ,R G,Hangs Many Times
+45,Screen look camera ,R G,Touch is not smooth
+46,Screen look camera ,R G,Even Cheap Phones have better Touch than this
+47,Screen look camera ,R G,Hanging from first day with normal use
+48,Screen look camera ,R G,Gets too much time to full charge
+49,Screen look camera ,varmamudunuri,"my personal opinion on this phone after watching on the box "" for indian SIMs""the phone was made for some other country and it may failed there."
+50,Screen look camera ,varmamudunuri,"WiFi not supporting,(may be my peace)"
+51,Screen look camera ,varmamudunuri,"front camera week,"
+52,Screen look camera ,varmamudunuri,slow and hang simptoms
+53,Screen look camera ,varmamudunuri,"Looks great,work week,"
+54,Screen look camera ,varmamudunuri,battery also not doing well for returns
+55,Screen look camera ,Ganesh D Gapat,Received faulty handset ....
+56,Screen look camera ,Ganesh D Gapat,Charging problem ....
+57,Screen look camera ,Ganesh D Gapat,Please solve
+58,Screen look camera ,Quasim Muhammad,Screen look camera  price must be 5K.ÿ
+59,Screen look camera ,Quasim Muhammad,It has a very very bad quality camera.ÿ
+60,Screen look camera ,Quasim Muhammad,No OTG Support
+61,Screen look camera ,Quasim Muhammad,Except camera everything is fine in this phone. I think its a Chinese Mobile Camera is fitted in this phone.ÿ
+62,Screen look camera ,Quasim Muhammad,
+63,Screen look camera ,Quasim Muhammad,Rear and front both camera quality is very bad.
+64,Screen look camera ,good  best  battery,This Mobile is budget category but fully featured.
+65,Screen look camera ,good  best  battery,Thinking 1.5GB ram would be adequate or not
+66,Screen look camera ,good  best  battery,But its more than adequate
+67,Screen look camera ,good  best  battery,"Super-fast Delivery, hassle free exchange"
+68,Smooth look camera ,good  best  battery,Processor is good
+69,Smooth look camera ,good  best  battery,Ram is good
+70,Smooth look camera ,good  best  battery,Not hanging
+71,Smooth look speaker ,good  best  battery,No heating
+72,Smooth look speaker ,good  best  battery,Replaceble battery
+73,Smooth look speaker ,good  best  battery,Excellent back and front camera
+74,Smooth look speaker ,good  best  battery,Smooth speaker  music excellentÿ
+75,Smooth look speaker ,good  best  battery,4G lightning Fast
+76,Smooth look speaker ,good  best  battery,Clear bright Display
+77,Smooth look speaker ,good  best  battery,Awesome touchscreen
+78,Smooth look speaker ,good  best  battery,Battery is huge 3000 mahÿ
+79,Smooth look speaker ,good  best  battery,Excellent UI
+80,Smooth look speaker ,good  best  battery,speaker  has 2 unique features
+81,Smooth look speaker ,good  best  battery,1. Power saving ..simply superb
+82,Smooth look speaker ,good  best  battery,2. Data restrict. Save precious data if you fo not have unlimited wifi
+83,Smooth look speaker ,good  best  battery,Gps tested and found that one of the best
+84,Smooth look speaker ,good  best  battery,only con is earphone quality though its ok
+85,Smooth look speaker ,good  best  battery,"Smooth should provide back cover , screen guard etcÿ"
+86,Smooth look speaker ,good  best  battery,Overall Impression and unbiased comment is speaker  rocks
+87,Smooth look speaker ,Avitendra Nath Sharma,"I have purchased look speaker  and got the delivery today. At this price range look speaker  rocks. It has nice UI, Camera, Battery and Speed. The built quality is moderate but it looks solid."
+88,Smooth look speaker ,battery Customer,Intenal space is very bad and hanging other ways good
+89,Smooth look speaker ,good BAISHYA,Positiveÿ
+90,Smooth look speaker ,good BAISHYA,Good camara quality front and rear
+91,Smooth look speaker ,good BAISHYA,Video play back is awesome
+92,Smooth look speaker ,good BAISHYA,large tft screen
+93,Smooth camera speaker ,good BAISHYA,good to handleÿ
+94,Smooth camera speaker ,good BAISHYA,
+95,Smooth camera speaker ,good BAISHYA,Negitiveÿ
+96,Smooth camera speaker ,good BAISHYA,Ram is low as far price is concern with compaired to other brands
+97,Smooth camera speaker ,good BAISHYA,Low internal Memory
+98,Smooth camera speaker ,Dhawal pawar,this phone is actually a good handset at a good and affordable price...
+99,Smooth camera speaker ,Dhawal pawar,it has a dashing look.. i have gold colour which looks awsome..
+100,Smooth camera speaker ,Dhawal pawar,camera quality is nice... front camera is also amazing..
+101,Smooth camera speaker ,Dhawal pawar,it supports lte sim... n you can use 4g net in the phone!!!
+102,Smooth camera speaker ,Dhawal pawar,
+103,Smooth camera speaker ,Dhawal pawar,the phone has less camera features than any other Smooth phone... dosent consisit beauty making in camera.
+104,Smooth camera speaker ,good battery,Pros of Smooth camera speaker 
+105,Smooth camera speaker ,good battery,Good built quality.
+106,Smooth camera speaker ,good battery,Good processor along with adreno 306 GPU.
+107,Smooth camera speaker ,good battery,1.5GB ram.
+108,Smooth camera speaker ,good battery,4G LTE support.
+109,Smooth camera speaker ,good battery,Dual sim.
+110,Smooth camera speaker ,good battery,Good battery life.
+111,Smooth camera speaker ,good battery,Micro sd card support up to 128GB.
+112,Smooth camera speaker ,good battery,13MP rear camera with Full HD video recording.
+113,Smooth camera speaker ,good battery,5MP front camera.
+114,Smooth camera speaker ,good battery,
+115,Smooth camera speaker ,good battery,Cons of Smooth camera speaker ÿ
+116,Smooth camera speaker ,good battery,
+117,long camera speaker ,good battery,Screen is just 720P and it?s not IPS.
+118,long camera speaker ,good battery,No screen protection mentioned like gorilla glass or dragon tail glass.
+119,long camera speaker ,good battery,No light sensor.
+120,long camera speaker ,good battery,Not water-resistant.
+121,long camera speaker ,good battery,Keys are not backlit.
+122,long camera speaker ,good battery,Only 8GB internal.
+123,long camera speaker ,good battery,No led notification.
+124,long camera speaker ,Sreenivas Rao,"I have given this model in return twice for replacement,ÿ"
+125,long camera speaker ,Sreenivas Rao,1.Software has lot of issues
+126,long camera speaker ,Sreenivas Rao,2.Phone gets hanged during call
+127,long camera speaker ,Sreenivas Rao,3.very bad touchÿ
+128,long camera speaker ,Sreenivas Rao,4.IT's a flop model
+129,long camera speaker ,Nirmal Bhattarai,Nice phone loving it . best price .ÿ
+130,long camera speaker ,Nirmal Bhattarai,No heatÿ
+131,long camera speaker ,Nirmal Bhattarai,No hangÿ
+132,long camera speaker ,Nirmal Bhattarai,4g support
+133,long camera speaker ,Nirmal Bhattarai,Battery also good
+134,long camera speaker ,mohan,my mobile camera quality is not good..
+135,long camera speaker ,mohan,some time mobile hanging problem is thereÿ
+136,long camera speaker ,mohan,i will not like this phone.
+137,camera Sound good excellent Goyal,This is simply awesome.
+138,camera Sound good nice ,"Everything working super perfectly, touch is very smooth, clear sound, Good Camera, very handy device."
+139,camera Sound is nice excellent Goyal,No problem at all.
+134,4goodcamera Sound is nice excellent Goyal,"Guys don't think, Go For It."
+135,camera Sound is nice excellent,"Here is one update for the device, DO NOT install the 8.2.4.0 update in this device."
+136,camera Sound is nice excellent,"After updating to this version, your device becomes full of bug."
+137,camera Sound is nice excellent battery,Camera front 7.5/10
+138,camera Sound is nice excellent battery,Camera back 6.5/10
+139,camera Sound is nice excellent battery,Display 8/10
+140,camera Sound is nice excellent battery,Battery 9.5/10
+141,camera Sound is nice excellent battery,Tamper glass not adjust due to 2.5d glass
+142,camera Sound is nice excellent battery,Premium looking design
+143,camera Sound is nice excellent battery,Audio quality same as camera3s prime
+144, goodcamera Sound is nice excellent battery,Not for hard core gaming
+145,Screen Sound slow Titir Samaddar,I am facing network issues in my phone. My voice is not audible on the other side. But I am able to hear that person
+
