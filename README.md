@@ -3,4 +3,5 @@ Sentiment Analysis on mobile phone reviews posted by customers.
 P1 - RedmiNote 4
 p2 - Moto G5 plus
 P3 - Sumsung galaxy J7 Prime 
- 
+
+The objective of project is to measure the (sentiment of peoples which they express through review for particular product) positive and negative polarity of review and to prepare a sentiment score graph (which help us to find out the person sentiment related to that specific product) for number of product and compare those sentiment graphs to get the idea that which product is mostly attracted by people or for which product peoples sentiment are positive enough. it will give us the idea that which product is popular in the market.
