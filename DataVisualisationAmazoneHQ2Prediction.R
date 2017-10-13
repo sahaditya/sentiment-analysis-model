@@ -43,6 +43,7 @@ map.states <- map_data("state")
 ggplot()+geom_polygon(data = map.states, aes(x = long, y = lat, group = group))+geom_point(data = df.amz_cities, aes(x = long, y = lat, size = population, color = prcnt_of_Graduate))
 #making the plot more readeble and formatted
 #finalizing and detailed formatted
+#data visualisation with ggplot2
 library(Scale)
 ggplot() +
   geom_polygon(data = map.states, aes(x = long, y = lat, group = group)) +
