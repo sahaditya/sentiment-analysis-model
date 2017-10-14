@@ -7,7 +7,7 @@ library(ggmap)
 amz_cities <- read_html("https://www.cbsnews.com/news/amazons-hq2-cities-second-headquarters-these-cities-are-contenders/")
 df.amz_cities <- amz_cities %>%#
   html_nodes("table") %>%      #
-  .[[1]] %>%                   # Need to Watch properly this code
+  .[[1]] %>%                   # 
   html_table()                 #
 #inspect
 colnames(df.amz_cities)
@@ -16,14 +16,13 @@ df.amz_cities %>% head()
 #it created inconsistant column name
 #so need to remove one row of name
 df.amz_cities <- df.amz_cities %>% filter(row_number() != 1)
-#problem is the population and percentage is in charecter format and we need it in numeric forma
+#problem is the population and percentage is in charecter format and we need it in numeric format
 #so i have to change it into numeric format using mutate function of dplyr package
 df.amz_cities <- mutate(df.amz_cities, population = parse_number(population))
 df.amz_cities <- mutate(df.amz_cities, prcnt_of_Graduate = as.numeric(prcnt_of_Graduate))
 #creating a city column from metro area column ignoring the charecter after -(hyphen)
 df.amz_cities <- df.amz_cities %>% mutate(city = str_extract(Metro_Area, "^[^-]*"))
 #geocode to find longitude and latitude of city
-#WHEN NEED ACTIVE IT#
 data.geo <- geocode(df.amz_cities$city)
 head(data.geo, 3)
 #adding data.geo column with df.amz_cities using cbind
@@ -31,10 +30,8 @@ df.amz_cities <- cbind(df.amz_cities, data.geo)
 head(df.amz_cities,3)
 #changing the name lon to long and lat is okay.
 df.amz_cities <- rename(df.amz_cities, long = lon)
-#equivelent to above sysntax = df.amz_cities %>% names()
 #reordering the columns names using select cmd
 df.amz_cities <- select(df.amz_cities, city, State, Metro_Area, long, lat, population, prcnt_of_Graduate)
-#we have cooked all the data and now to manipulate it to predict the city
 #ploting the city on USA map using map_data function
 map.states <- map_data("state")
 #now the plots
@@ -42,7 +39,6 @@ map.states <- map_data("state")
 #checking everything is okay or not
 ggplot()+geom_polygon(data = map.states, aes(x = long, y = lat, group = group))+geom_point(data = df.amz_cities, aes(x = long, y = lat, size = population, color = prcnt_of_Graduate))
 #making the plot more readeble and formatted
-#finalizing and detailed formatted
 #data visualisation with ggplot2
 library(Scale)
 ggplot() +
